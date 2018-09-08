@@ -9,7 +9,7 @@ Made by introverts, for introverts (everyone, really), Studious aims to help con
    * Will be anonymous-ish at first -- add user profiles/account stuff later
 
 * Homepage
-    * Make search & new sesh button look better
+    * Make search & new sesh button (fine for now) look better
     * Dynamic updates to latest sesh requests shown on homepage
 
 * Map
