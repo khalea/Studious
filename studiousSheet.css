@@ -81,7 +81,7 @@ html, body {
 }
 
 .container {
-    padding: 12px;
+    padding: 18px;
 }
 
 .cardTitle {
@@ -89,4 +89,18 @@ html, body {
     color: black;
     font-weight: bold;
     font-family: 'Noto Serif JP', sans-serif;
+    margin-bottom: 16px;
 }
+
+.formData {
+    font-size: 16px;
+    width: 90%;
+}
+
+#purpose {
+    height: 128px;
+    text-align: left;
+    text-wrap: normal;
+    word-wrap: break-word;
+}
+
