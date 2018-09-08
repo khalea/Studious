@@ -5,7 +5,7 @@ Made by introverts, for introverts (everyone, really), Studious aims to help con
 
 * Build out "New Sesh" functionality
    * Build New Sesh interface
-   * Figure out how to store the data with Google Data Store
+   * Figure out how to store the data with Google Data Store, Django ?
    * Will be anonymous-ish at first -- add user profiles/account stuff later
 
 * Homepage
