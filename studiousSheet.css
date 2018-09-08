@@ -46,7 +46,20 @@ html, body {
 
 #newSesh {
     background-color: rgba(224, 225, 227, .1);
+    float: right;
+    padding: 16px;
+    border: none;
 
+}
+
+#newSesh {
+    /*Add Shadows for Card Effect*/
+    box-shadow: 0 4px 4px rgba(0, 0, 0, .4);
+    transition: 0.3s;
+}
+
+#newSesh:hover {
+    box-shadow: 0 6px 6px 0 rgba(0,0,0,0.5);
 }
 
 .card {
