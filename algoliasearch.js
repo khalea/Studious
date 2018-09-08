@@ -14,7 +14,7 @@ var requestIndex = client.initIndex('requestIndex');
 //   .then(content => console.log(content))
 //   .catch(err => console.error(err));
 
-var contactsJSON = require('./requests.json');
+var requestsJSON = require('./requests.json');
 
 requestIndex.addObjects(requestsJSON, function(err, content) {
 if (err) {
@@ -24,12 +24,12 @@ if (err) {
 
 requestIndex.setSettings({
   'searchableAttributes': [
-    'lastname',
-    'firstname',
-    'location',
+    // 'lastname',
+    // 'firstname',
+    // 'location',
     'course',
     'message',
-    'school'
+    // 'school'
   ]
 }, function(err, content) {
   console.log(content);
@@ -48,7 +48,7 @@ searchParameters: {
 
 search.addWidget(
   instantsearch.widgets.searchBox({
-    container: '#search-input'
+    container: '#search'
   })
 );
 
