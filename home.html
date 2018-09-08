@@ -17,7 +17,7 @@
     <!-- Search Box - TODO Edit Style to make more obvious -->
     <input id="search" type="text"placeholder="What/Where to Study?">
     <!-- New Sesh Button - TODO Edit Style -->
-    <button type="button" id="newSesh" style="color: white">New Sesh</button>
+    <button onclick = "addCell()" type="button" id="newSesh" style="color: white">New Sesh</button>
 
 </div>
 
@@ -104,6 +104,11 @@
             'Error: Your browser doesn\'t support geolocation.');
         infoWindow.open(map);
     }
+
+    function addCell(){
+      document.getElementById("demo").innerHTML = "Hello World";
+    }
+
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCErj04WXABD7gi4dI_FwdUuyoCwKEFObY&callback=initMap"></script>
 <script src="studious.js"></script>
