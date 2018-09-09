@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="096c2914-9f8b-4fcd-907f-aaa0f4b04694" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studious.js" beforeDir="false" afterPath="$PROJECT_DIR$/studious.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studiousSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/studiousSheet.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,8 +51,8 @@
       <file leaf-file-name="studiousSheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studiousSheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
+            <state relative-caret-position="272">
+              <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
               <folding>
                 <element signature="e#30#84#0" />
                 <element signature="e#92#235#0" />
@@ -69,7 +69,8 @@
                 <element signature="e#828#877#0" />
                 <element signature="e#890#912#0" />
                 <element signature="e#925#1036#0" />
-                <element signature="e#1509#1517#0" />
+                <element signature="e#1458#1466#0" />
+                <element signature="e#1666#1674#0" />
               </folding>
             </state>
           </provider>
@@ -79,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/studious.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="n#style#0;n#b#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -114,6 +115,7 @@
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/readMe.md" />
         <option value="$PROJECT_DIR$/studious.js" />
+        <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/studiousSheet.css" />
       </list>
     </option>
@@ -182,12 +184,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536374400862</updated>
       <workItem from="1536374403272" duration="10528000" />
-      <workItem from="1536419612613" duration="8933000" />
+      <workItem from="1536419612613" duration="9925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19461000" />
+    <option name="totallyTimeSpent" value="20453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -201,7 +203,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15247777" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3761118" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,7 +263,8 @@
             <element signature="e#828#877#0" />
             <element signature="e#890#912#0" />
             <element signature="e#925#1036#0" />
-            <element signature="e#1509#1517#0" />
+            <element signature="e#1458#1466#0" />
+            <element signature="e#1666#1674#0" />
           </folding>
         </state>
       </provider>
@@ -310,7 +313,7 @@
     <entry file="file://$PROJECT_DIR$/studious.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="n#style#0;n#b#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -319,10 +322,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/studiousSheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
+        <state relative-caret-position="272">
+          <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
           <folding>
             <element signature="e#30#84#0" />
             <element signature="e#92#235#0" />
@@ -339,7 +349,8 @@
             <element signature="e#828#877#0" />
             <element signature="e#890#912#0" />
             <element signature="e#925#1036#0" />
-            <element signature="e#1509#1517#0" />
+            <element signature="e#1458#1466#0" />
+            <element signature="e#1666#1674#0" />
           </folding>
         </state>
       </provider>
