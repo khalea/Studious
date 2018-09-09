@@ -100,8 +100,16 @@ html, body {
 }
 
 #purpose {
-    height: 128px;
+    height: 64px;
     text-align: left;
     text-wrap: normal;
     word-wrap: break-word;
+}
+
+#newSeshSubmit {
+    background-color: #2B4970;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin: 8px;
 }

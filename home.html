@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:600" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
     <script src="./studious.js"></script>
+    <script src="./algoliasearch.js"></script>
 
 </head>
 <body>
@@ -22,6 +23,16 @@
     <button type="button" id="newSesh" style="color: white" onclick="showForm()">New Sesh</button>
 
 </div>
+  <main>
+      <div id="hits"></div>
+      <div id="pagination"></div>
+  </main>
+
+  <script type="text/html" id="hit-template">
+    <div class="hit">
+      <p class="hit-name">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</p>
+    </div>
+  </script>
 
 <!-- Map, float left -->
 <div id="map"></div>
