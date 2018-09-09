@@ -1,3 +1,6 @@
+var client = algoliasearch('RK202SK146', 'dd32c6fbcae6213ae686fb66500534fb');
+var index = client.initIndex('your_index_name');
+
 function showForm() {
     let myNode = document.getElementById('info');
     while (myNode.firstChild) {
