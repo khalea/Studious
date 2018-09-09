@@ -1,0 +1,28 @@
+{
+  "name": "studious-app",
+  "version": "1.0.0",
+  "description": "Project for PennApps XVIII",
+  "main": "studious.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalea/PennApps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalea/PennApps/issues"
+  },
+  "homepage": "https://github.com/khalea/PennApps#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  },
+  "dependencies": {
+    "@types/algoliasearch": "^3.27.6",
+    "algoliasearch": "^3.30.0",
+    "instantsearch.js": "^2.10.1"
+  }
+}
