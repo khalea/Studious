@@ -24,13 +24,9 @@ const requestIndex = client.initIndex('requests');
 
 requestIndex.setSettings({
   'searchableAttributes': [
-    // 'lastname',
-    // 'firstname',
-    // 'location',
-    // 'course',
-    // 'message',
-    // 'school'
-    'subject',
+    'buildingRoom',
+    'school',
+    'subjectCourse',
     'purpose'
   ]
 }, function(err, content) {

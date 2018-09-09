@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/khalea/PennApps#readme",
   "devDependencies": {
-    "electron": "^2.0.8"
+    "algoliasearch": "^3.30.0",
+    "electron": "^2.0.8",
+    "instantsearch.js": "^2.10.1"
   },
   "dependencies": {
-    "@types/algoliasearch": "^3.27.6",
-    "algoliasearch": "^3.30.0",
-    "instantsearch.js": "^2.10.1"
+    "@types/algoliasearch": "^3.27.6"
   }
 }
