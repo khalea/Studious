@@ -5,7 +5,7 @@ const {app, BrowserWindow} = require('electron')
 
       win = new BrowserWindow({Width: 2000, Height: 2000})
 
-      win.loadFile('../Studious/below_main/home.html')
+      win.loadFile('./below_main/home.html')
 
       win.webContents.openDevTools()
 
