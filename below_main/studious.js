@@ -17,8 +17,6 @@ function showForm() {
         "                   <input type='text' class='formData' id='subject' placeholder='Subject' style='padding: 16px; margin: 8px'>\n" + "<br>\n" +
         "                   <textarea type='text' class='formData' id='purpose' placeholder='Purpose, Assignment, etc' style='padding: 16px; margin: 8px'></textarea>\n" + "<br>\n" +
         "                   <input type='submit' id='newSeshSubmit' value='Create'>\n" +
-        "                   <input type='text' class='formData' id='purpose' placeholder='Purpose, Assignment, etc' style='padding: 16px; margin: 8px'>\n" + "<br>\n" +
-        "                   <input type='submit' value='Create your Sesh!' onclick()='importData()'>\n" +
         "               </div>\n" +
         "               <script> function importData() = {requestIndex.addObject($('#form').serializeArray());} </script>"
         "           </div>";
