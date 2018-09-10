@@ -3,7 +3,7 @@ const firebase = require("firebase");
 require("firebase/firestore");
 
 firebase.initializeApp ({
-    apiKey: ***REMOVED***,
+    apiKey: "APIKEY",
     authDomain: "FIREBASE AUTH DOMAIN",
     projectID: "roomed-1536374201940"
 });
