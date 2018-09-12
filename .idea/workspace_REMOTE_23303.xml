@@ -18,11 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-=======
     <leaf>
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
       <file leaf-file-name="studiousSheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studiousSheet.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,11 +32,7 @@
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-<<<<<<< HEAD
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-=======
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
             </state>
           </provider>
         </entry>
@@ -48,13 +40,8 @@
       <file leaf-file-name="studious.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studious.js">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="23">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-=======
             <state>
               <caret lean-forward="true" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
               <folding>
                 <element signature="n#!!block;n#showForm#0" />
               </folding>
@@ -62,27 +49,11 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="firebase.js" pinned="false" current-in-tab="false">
-=======
       <file leaf-file-name="firebase.js" pinned="false" current-in-tab="true">
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
         <entry file="file://$PROJECT_DIR$/firebase.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
               <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-<<<<<<< HEAD
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="replacements.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/replacements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" selection-start-column="40" selection-end-column="40" />
-=======
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
             </state>
           </provider>
         </entry>
@@ -116,14 +87,8 @@
         <option value="$PROJECT_DIR$/db.js" />
         <option value="$PROJECT_DIR$/studiousSheet.css" />
         <option value="$PROJECT_DIR$/home.html" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/firebase.js" />
-        <option value="$PROJECT_DIR$/studious.js" />
-        <option value="$PROJECT_DIR$/replacements.txt" />
-=======
         <option value="$PROJECT_DIR$/studious.js" />
         <option value="$PROJECT_DIR$/firebase.js" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
       </list>
     </option>
   </component>
@@ -145,9 +110,6 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-<<<<<<< HEAD
-    <panes />
-=======
     <panes>
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -162,7 +124,6 @@
         </subPane>
       </pane>
     </panes>
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -197,21 +158,12 @@
       <updated>1536374400862</updated>
       <workItem from="1536374403272" duration="10528000" />
       <workItem from="1536419612613" duration="11113000" />
-<<<<<<< HEAD
-      <workItem from="1536467673995" duration="5593000" />
-      <workItem from="1536713545782" duration="1732000" />
-=======
       <workItem from="1536467673995" duration="5418000" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="28975000" />
-=======
     <option name="totallyTimeSpent" value="27068000" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -224,11 +176,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909784" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32909784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-<<<<<<< HEAD
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18170267" />
-=======
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3761118" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -243,25 +191,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-<<<<<<< HEAD
-=======
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15151516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909784" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32909784" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3761118" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-=======
       <window_info anchor="bottom" id="Run" order="2" weight="0.32909784" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -269,7 +204,6 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909784" />
       <window_info anchor="bottom" id="Message" order="0" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -306,37 +240,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/studiousSheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studious.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!block;n#showForm#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home.html" />
     <entry file="file://$PROJECT_DIR$/studious.js" />
     <entry file="file://$PROJECT_DIR$/readMe.md" />
@@ -348,28 +251,6 @@
     <entry file="file://$PROJECT_DIR$/algoliasearch.js" />
     <entry file="file://$PROJECT_DIR$/requests.json" />
     <entry file="file://$PROJECT_DIR$/models.py" />
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/below_main/home.html" />
-    <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md" />
-    <entry file="file://$PROJECT_DIR$/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/below_main/studious.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.js" />
-    <entry file="file://$PROJECT_DIR$/studiousSheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-=======
     <entry file="file://$PROJECT_DIR$/below_main/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-221">
@@ -400,36 +281,18 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/below_main/studious.js">
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studious.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        <state>
           <folding>
-            <element signature="n#!!block;n#showForm#0" />
+            <element signature="n#style#0;n#b#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/replacements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-=======
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -472,7 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf
         </state>
       </provider>
     </entry>
