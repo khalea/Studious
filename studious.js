@@ -1,5 +1,5 @@
 
-
+// Function that brings up the New Sesh form
 function showForm() {
     let myNode = document.getElementById('info');
     while (myNode.firstChild) {
