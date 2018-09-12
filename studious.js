@@ -1,9 +1,4 @@
-
-<<<<<<< HEAD:studious.js
 // Function that brings up the New Sesh form
-=======
-
->>>>>>> 0bf54bba02ce62a94227b0e1c5e08f01a713decf:studious.js
 function showForm() {
     let myNode = document.getElementById('info');
     while (myNode.firstChild) {

@@ -1,11 +1,14 @@
+let apiKey = config.fbKey;
+let projID = config.fbID;
+
 const firebase = require("firebase");
 // Required for side-effects
 require("firebase/firestore");
 
 firebase.initializeApp ({
-    apiKey: "APIKEY",
-    authDomain: "FIREBASE AUTH DOMAIN",
-    projectID: "roomed-1536374201940"
+    apiKey: apiKey,
+    authDomain: "<" + projID + ">.firebaseapp.com",
+    projectID: projID
 });
 
 // Initialize cloud firestore through firebase
