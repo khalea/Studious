@@ -12,9 +12,24 @@ firebase.initializeApp ({
 });
 
 // Initialize cloud firestore through firebase
-let db = firebase.firestore();
+let firestore = firebase.firestore();
 
 // Disable deprecated features
-db.settings({
+firestore.settings({
    timestampsInSnapshots: true
 });
+
+// Collection (Sesh) -> Document (SeshID) -> Data (Host/UserID, University, Building, Room, Address, AddLater[Attendees])
+let seshColl = db.collection('seshes'); // Collection of Seshes
+
+// Function to create new sesh via form on home.html
+function createSesh() {
+    // Generate SeshID & Create Document in seshColl
+
+    // Add Data from Form to
+}
+
+// Collection (Users) -> Document (UserID) -> Data (First, Last, DOB, University, AddLater[Friends])
+let userColl = db.collection('users'); // Collection of users
+
+
