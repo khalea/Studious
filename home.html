@@ -6,10 +6,29 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="studiousSheet.css">
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:600" rel="stylesheet">
+
+    <!-- Javascript -->
     <script src="./studious.js"></script>
     <script type='text/javascript' src='config.js'></script>
-    <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-app.js"></script>
+    <!-- Firestore -->
+    <script src="https://www.gstatic.com/firebasejs/5.5.1/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.3.0/firebase-firestore.js"></script>
+    <script>
+        // Initialize Firebase
+        var configFB = {
+            apiKey: "AIzaSyAvvwTAkydrivb6ZUE7BjE8uDnqwzUIQ6w",
+            authDomain: "studious-510ce.firebaseapp.com",
+            databaseURL: "https://studious-510ce.firebaseio.com",
+            projectId: "studious-510ce",
+            storageBucket: "studious-510ce.appspot.com",
+            messagingSenderId: "260641496510"
+        };
+        firebase.initializeApp(configFB);
+    </script>
+    <script type='text/javascript' src='firebase.js'></script>
+
+
+
 
 </head>
 <body>
@@ -111,9 +130,7 @@
     }
 </script>
 
-<script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_Qr_-1xSnDHkkUk3mbNLeTZ4rpGUulQw&callback=initMap">
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_Qr_-1xSnDHkkUk3mbNLeTZ4rpGUulQw&callback=initMap">
 </script>
-<script src="studious.js"></script>
 </body>
 </html>

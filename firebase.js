@@ -1,35 +1,29 @@
+// Initialize Cloud Firestore through Firebase
+const db = firebase.firestore();
+const settings = {timestampsInSnapshots: true};
+db.settings(settings);
+
 let apiKey = config.fbKey;
 let projID = config.fbID;
 
-const firebase = require("firebase");
-// Required for side-effects
-require("firebase/firestore");
-
-firebase.initializeApp ({
-    apiKey: apiKey,
-    authDomain: "<" + projID + ">.firebaseapp.com",
-    projectID: projID
-});
-
-// Initialize cloud firestore through firebase
-let firestore = firebase.firestore();
-
-// Disable deprecated features
-firestore.settings({
-   timestampsInSnapshots: true
-});
-
-// Collection (Sesh) -> Document (SeshID) -> Data (Host/UserID, University, Building, Room, Address, AddLater[Attendees])
-let seshColl = db.collection('seshes'); // Collection of Seshes
-
 // Function to create new sesh via form on home.html
 function createSesh() {
-    // Generate SeshID & Create Document in seshColl
+    console.log("Made it this far!");
 
-    // Add Data from Form to
+    // Text Fields to Save Data From -- Form
+    let university = document.getElementById("school").value;
+    let building = document.getElementById("buildingRoom").value;
+    let subject = document.getElementById("subjectCourse").value;
+    let purpose = document.getElementById("purpose").value;
+
+    // Generate SeshID & Create Document in seshColl
+    // Add a new document in collection "cities"
+
+
+
+
+    // Add Data from Form to Document
 }
 
-// Collection (Users) -> Document (UserID) -> Data (First, Last, DOB, University, AddLater[Friends])
-let userColl = db.collection('users'); // Collection of users
 
 
